@@ -3,7 +3,7 @@ random grab bag of scripts
 
 Script #1:  Crypto Fun With NodeJS
 
-This script is simple.  It grabs coin data from three exchanges: BTC-E, Cryptsy, and Bittrex.  It only parses best buy data for three different coins, but you get the idea.  The design is scalable, so it should be easy to add a few more coins, or a few more exchange api's.  And, it executes in the browser because of NodeJS awesomeness.
+This script is simple.  It grabs coin data from three exchanges: BTC-E, Cryptsy, and Bittrex.  It only parses best buy data for three different coins, but you get the idea.  The design is scalable, so it should be easy to add a few more coins, or a few more exchange api's.
 
 The script is called ibn.js.  You can run it with the command "nodejs ibn.js" .
 
